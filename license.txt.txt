@@ -1,0 +1,9 @@
+License for Mut1ny's face/head segmentation set
+
+1. You are free to use this dataset for any purpose you see fit. Commercial, accademical or private usage is permited.
+2. Any work derived from this face/head segmentation set has the sole copyright of yourself.
+3. You are *NOT* allowed to redistributed this dataset or make it publicly available without any written permision by 
+   Mut1ny
+4. If you want to mention the usage of this dataset please link to the original website 
+   (http://www.mut1ny.com/face-headsegmentation-dataset)
+ 
